@@ -14,7 +14,7 @@ JMdict -- converted for easy parsing, sorted and
 JMdict is licensed Creative Commons Attribution ShareAlike
   3.0 license, by Electronic Dictionary Research and
   Development Group at Monash University.
-  JMDICT.SOURCEFORGE.NET
+  https://www.edrdg.org/jmdict/j_jmdict.html
 
 ![Screenshot](https://github.com/pk240/hiradict/blob/master/hiradict1.png?raw=true)
 ![Screenshot](https://github.com/pk240/hiradict/blob/master/hiradict2.png?raw=true)
