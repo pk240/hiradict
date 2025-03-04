@@ -16,3 +16,5 @@ JMdict is licensed Creative Commons Attribution ShareAlike
   Development Group at Monash University.
   JMDICT.SOURCEFORGE.NET
 
+![Screenshot](https://github.com/pk240/hiradict/blob/master/hiradict1.png?raw=true)
+![Screenshot](https://github.com/pk240/hiradict/blob/master/hiradict2.png?raw=true)
